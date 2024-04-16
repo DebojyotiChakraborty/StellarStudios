@@ -1,2 +1,2 @@
-# StellarWalls
-Privacy policies and Terms of use for StellarWalls and StellarWalls PRO
+# Stellar Studios
+Privacy policies and Terms of use for apps by Stellar Studios
