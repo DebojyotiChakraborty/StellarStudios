@@ -1,9 +1,9 @@
 {
-  "latestVersion": "2.2",
-  "latestVersionCode": 8,
+  "latestVersion": "2.1",
+  "latestVersionCode": 7,
   "disableRequest": {
-    "below": 8,
-    "on": "1 2 3 4 5 6 7"
+    "below": 7,
+    "on": "1 2 3 4 5 6"
   },
   "url": "https://play.google.com/store/apps/details?id=com.debojyoti.coloros12_icpack",
   "releaseNotes": [
