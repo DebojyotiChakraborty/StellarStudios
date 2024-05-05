@@ -1,0 +1,15 @@
+{
+  "latestVersion": "2.1",
+  "latestVersionCode": 3,
+  "disableRequest": {
+    "below": 3,
+    "on": "1 2"
+  },
+  "url": "https://play.google.com/store/apps/details?id=com.debojyoti.ios16_icpack",
+  "releaseNotes": [
+    "Updated System Icons to match iOS 17",
+    "Fulfilled all Premium Icon Requests",
+      "Added 200+ new icons and 250+ new activities",
+      "Minor optimisations and fixes"
+  ]
+}
