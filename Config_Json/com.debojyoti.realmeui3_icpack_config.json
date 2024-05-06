@@ -1,0 +1,15 @@
+{
+  "latestVersion": "2.1",
+  "latestVersionCode": 7,
+  "disableRequest": {
+    "below": 7,
+    "on": "1 2 3 4 5 6"
+  },
+  "url": "https://play.google.com/store/apps/details?id=com.debojyoti.realmeui3_icpack",
+  "releaseNotes": [
+    "Updated System Icons to match RealmeUI 5.0",
+    "Fulfilled all Premium Icon Requests",
+      "Added 200+ new icons and 250+ new activities",
+      "Minor optimisations and fixes"
+  ]
+}
